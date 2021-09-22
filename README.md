@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @konstantin-colovic
 - 👀 I’m interested in computer science, microelectronics and chemistry.
 - 🌱 I’m currently learning web developement.
-- 📫 How to reach me konstantin.colovic@gmail.co
+- 📫 How to reach me konstantin.colovic@gmail.com
